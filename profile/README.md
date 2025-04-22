@@ -2,8 +2,6 @@
 
 ## Hi there 👋
 
-<!--
-
 **Here are some ideas to get you started:**
 
 🙋‍♀️ A short introduction - what is your organization all about?
@@ -14,4 +12,3 @@ Currently not supported
 https://softwarica.edu.np
 🍿 Fun facts - what does your team eat for breakfast?
 Food ofc
--->
