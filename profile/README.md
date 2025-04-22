@@ -2,7 +2,7 @@
 
 ## Hi there 👋
 
-**Here are some ideas to get you started:**
+**Greetings**
 
 🙋‍♀️ A short introduction - what is your organization all about?\
 Softwarica College is working in collaboration with Coventry University, UK, offering a range of undergraduate and postgraduate programmes including BSc (Hons) Computing, BSc (Hons) Ethical Hacking and Cyber Security, BSc (Hons) Computer Science with AI, and MSc Data Science and Computational Intelligence.
