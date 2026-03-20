@@ -6,4 +6,4 @@ Discipline > Motivation
 
 Action > Overthinking
 
-<img width="203" height="360" alt="image" src="https://github.com/user-attachments/assets/d0c6830d-ed9a-4bde-a4db-14baf9f62661" />
+![coding gif](https://media1.tenor.com/m/m0YanOUFYb4AAAAd/cats-car.gif)
